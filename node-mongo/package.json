@@ -1,0 +1,25 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "node js app with mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "app",
+    "with",
+    "mongo",
+    "db"
+  ],
+  "author": "Sadaf Fatin",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.2"
+  }
+}
