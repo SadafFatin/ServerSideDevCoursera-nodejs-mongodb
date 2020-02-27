@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index"
+    "start": "node index"
   },
   "author": "Sadaf Fatin",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.2"
+    "mongoose": "^5.9.2",
+    "mongoose-currency": "^0.2.0"
   }
 }
